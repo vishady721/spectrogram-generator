@@ -1,1 +1,1 @@
-# spectrograph-generator
+# spectrogram-generator
